@@ -1,3 +1,2 @@
 # CompSquad
-Feel free to do what you want with is. 
-It's a pleasure. 
+2018 CSSI Google Bootcamp. 
